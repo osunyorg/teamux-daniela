@@ -2,23 +2,23 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   children: []
 - title: Agenda
-  target: "/agenda/"
+  target: "/fr/agenda/"
   kind: page
   children: []
 - title: Projets
-  target: "/projets/"
+  target: "/fr/projets/"
   kind: page
   children: []
 - title: Équipe
-  target: "/equipe/"
+  target: "/fr/equipe/"
   kind: page
   children: []
 - title: Organisations
-  target: "/organisations/"
+  target: "/fr/organisations/"
   kind: page
   children: []
 
