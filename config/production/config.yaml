@@ -4,7 +4,7 @@ baseURL: https://daniela.teamux.osuny.site
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:

@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Agenda
+  target: "/es/agenda/"
+  kind: page
+  children: []
 - title: Projets
   target: "/es/projets/"
   kind: page
